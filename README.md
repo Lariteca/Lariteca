@@ -29,6 +29,9 @@
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
 
+📊 Tecnologias mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lariteca&layout=compact&theme=dark&langs_count=8)
 
 📌 Repositórios em destaque
 
