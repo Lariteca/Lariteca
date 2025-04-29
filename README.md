@@ -33,7 +33,7 @@
 📌 Repositórios em destaque
 
 - [🔐 FIAP-CICD-DevSecOps](https://github.com/Lariteca/FIAP-CICD-DevSecOps) — Pipeline DevSecOps com Terraform
-- [🌐 Página em construção](https://github.com/Lariteca/Pagina-em-constru-o) — Projeto autoral com HTML e CSS
+
 
 💬 Vamos nos conectar?
 
