@@ -32,7 +32,6 @@
 
 📌 Repositórios em destaque
 
-- [📦 LearnECL](https://github.com/Lariteca/LearnECL) — Estudo de ECL com foco em Big Data
 - [🔐 FIAP-CICD-DevSecOps](https://github.com/Lariteca/FIAP-CICD-DevSecOps) — Pipeline DevSecOps com Terraform
 - [🌐 Página em construção](https://github.com/Lariteca/Pagina-em-constru-o) — Projeto autoral com HTML e CSS
 
