@@ -7,7 +7,6 @@
 
 💻 Sobre mim
 
-🎓 DevOps e Engenheira de Cloud em desenvolvimento  
 ⚙️ Especializada em automações CI/CD, Infraestrutura como Código (IaC) e cloud computing  
 🌎 Atuo com GitHub, Terraform, Docker, AWS, Azure, Python e etc
 
