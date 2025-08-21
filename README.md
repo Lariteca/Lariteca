@@ -39,4 +39,4 @@
 
 💬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lariteca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-stephanie/)  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/laritecaa?s=11)
